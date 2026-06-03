@@ -1,5 +1,5 @@
 # 💫 About Me:
-Game Developer | Unity · C++ · OpenGL | Building a Voxel Engine from scratch<br><br>Well I like making games from scratch and understand how it works,<br>Oh it's GitHub profile for god sake I don't have to be super formal. Well<br>I really like game and software so I just like using them and understand how they works<br>and this itch of understaing new thing make me happy and satisfied..<br><br>Come On just want my repo already to better understand what I like 😁<br>you will find out what i'm talking about!!<br><br>Have a Great day!!
+Game Developer | Unity · C++ · OpenGL | Building a Voxel Engine from scratch<br><br>Well I like making games from scratch and understand how it works,<br>Oh it's GitHub profile for god sake I don't have to be super formal. Well<br>I really like game and software so I just like using them and understand how they works<br>and this itch of understaing new thing make me happy and satisfied..<br><br>Come On just check out my repo already for better understanding what I like 😁<br>you will find out what i'm talking about!!<br><br>Have a Great day!!
 
 
 ## 🌐 Socials:
