@@ -1,21 +1,63 @@
-# 💫 About Me:
-Game Developer | Unity · C++ · OpenGL | Building a Voxel Engine from scratch<br><br>Well I like making games from scratch and understand how it works,<br>Oh it's GitHub profile for god sake I don't have to be super formal. Well<br>I really like game and software so I just like using them and understand how they works<br>and this itch of understaing new thing make me happy and satisfied..<br><br>Come On just check out my repo already for better understanding what I like 😁<br>you will find out what i'm talking about!!<br><br>Have a Great day!!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=NovaBytes&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20%26%20Graphics%20Developer&descAlignY=60&descSize=20" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/harsh-laskar-250b92360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.harsh.190@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+worlds+one+voxel+at+a+time;C%2B%2B+%7C+OpenGL+%7C+Unity;Shaders%2C+engines%2C+and+tiny+indie+games;Currently+leveling+up...)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harsh-Nova-190&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harsh-Nova-190&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-Nova-190&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harsh-Nova-190&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Harsh-Nova-190&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎮 Player Stats
+
+```yaml
+class:      Game / Graphics Developer
+guild:      NovaBytes (indie)
+education:  MCA @ GGSIPU
+quest:      Landing a game dev role
+status:     Open to work ⚔️
+```
+
+## 🧰 Inventory
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-7B2FF7?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+## 🗺️ Active Quests
+
+| Quest | Description |
+|-------|-------------|
+| 🧱 **Voxel Engine** | Minecraft-style renderer in C++ / OpenGL |
+| 🏹 **Arrow Puzzle** | Unity puzzle game + custom level-generator tool |
+| 🌑 **Whisper in the Dark** | Atmospheric indie game on itch.io |
+| 📡 **Job Radar** | ATS scoring + job scanning tool |
+
+## 📊 Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Nova-190&show_icons=true&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Nova-190&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Harsh-Nova-190&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 Achievements
+
+- 🎓 IBM Data Analyst Professional Certificate
+- 🤖 Google AI Professional Certificate
+
+<div align="center">
+
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+</div>
