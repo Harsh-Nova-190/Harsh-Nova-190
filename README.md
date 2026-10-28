@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+worlds+one+voxel+at+a+time;C%2B%2B+%7C+OpenGL+%7C+Unity;Shaders%2C+engines%2C+and+tiny+indie+games;Currently+leveling+up...)](https://git.io/typing-svg)
 
-[![Play](https://img.shields.io/badge/▶_PLAY_MY_GAME-A78BFA?style=for-the-badge)](https://harsh-nova-190.github.io/YOUR-GAME/)
+[![Bored? Try this game](https://img.shields.io/badge/🏍️_Bored%3F_Try_this_game-ff3d9a?style=for-the-badge&labelColor=0f0c29)](https://harsh-nova-190.github.io/night-rider/)
 
 </div>
 
