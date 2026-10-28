@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+worlds+one+voxel+at+a+time;C%2B%2B+%7C+OpenGL+%7C+Unity;Shaders%2C+engines%2C+and+tiny+indie+games;Currently+leveling+up...)](https://git.io/typing-svg)
 
+[![Play](https://img.shields.io/badge/▶_PLAY_MY_GAME-A78BFA?style=for-the-badge)](https://harsh-nova-190.github.io/YOUR-GAME/)
+
 </div>
 
 ---
@@ -28,15 +30,6 @@ status:     Open to work ⚔️
 ![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-## 🗺️ Active Quests
-
-| Quest | Description |
-|-------|-------------|
-| 🧱 **Voxel Engine** | Minecraft-style renderer in C++ / OpenGL |
-| 🏹 **Arrow Puzzle** | Unity puzzle game + custom level-generator tool |
-| 🌑 **Whisper in the Dark** | Atmospheric indie game on itch.io |
-| 📡 **Job Radar** | ATS scoring + job scanning tool |
-
 ## 📊 Stats
 
 <div align="center">
@@ -55,7 +48,6 @@ status:     Open to work ⚔️
 
 <div align="center">
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
